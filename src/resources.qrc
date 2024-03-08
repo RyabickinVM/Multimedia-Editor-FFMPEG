@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="main_window_icon">resources/camcorder-svgrepo-com.svg</file>
+    <file alias="file_new_icon">resources/file-svgrepo-com.svg</file>
+    <file alias="file_open_icon">resources/file-arrow-left-svgrepo-com.svg</file>
+    <file alias="file_save_icon">resources/file-arrow-right-svgrepo-com.svg</file>
+    <file alias="file_save_as_icon">resources/files-svgrepo-com.svg</file>
+    <file alias="import_icon">resources/inbox-arrow-down-svgrepo-com.svg</file>
+    <file alias="export_as_icon">resources/inbox-arrow-up-svgrepo-com.svg</file>
+    <file alias="project_properties_icon">resources/clipboard-list-alt-svgrepo-com.svg</file>
+
+    <file alias="help-content.svg">resources/help-content.svg</file>
+</qresource>
+</RCC>
